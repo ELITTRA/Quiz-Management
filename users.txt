@@ -1,0 +1,2 @@
+Student,1234,student
+Teacher,5678,admin

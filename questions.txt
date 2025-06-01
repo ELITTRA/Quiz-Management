@@ -1,0 +1,35 @@
+Which is used to find and fix bugs in the Java programs.?
+JVM
+JDB
+JDK
+JRE
+JDB
+---
+What is the return type of the hashCode() method in the Object class?
+int
+object
+long
+void
+int
+---
+Which package contains the Random class?
+java.util package
+java.lang package
+java.awt package
+java.io package
+java.util package
+---
+An interface with no fields or methods is known as?
+Runnable Interface
+Abstract Interface
+Marker Interface
+CharSequence Interface
+Marker Interface
+---
+In which memory a String is stored, when we create a string using new operator?
+Stack
+String memory
+Random storage space
+Heap memory
+Heap memory
+---
